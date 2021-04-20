@@ -4,4 +4,4 @@ let fruits = 55;
 
 let method = 23;
 
-let array  = [result, fruits, method];
+let array  = [app, fruits, method];
